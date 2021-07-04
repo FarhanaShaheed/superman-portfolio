@@ -1,0 +1,25 @@
+body {
+    font-family: 'Vollkorn', serif;
+}
+
+.about {
+    display: flex;
+    padding-left: 10%;
+}
+
+h1 {
+    font-size: 60px;
+    color: gray;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul {
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+}
